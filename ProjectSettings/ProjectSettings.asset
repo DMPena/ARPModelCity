@@ -750,6 +750,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -763,10 +765,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 821f0af1-88f7-4be2-af3d-06f5801c7f99
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: ARPModelCity
+  organizationId: dmpena22
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
